@@ -1,7 +1,7 @@
 # ScottlandYards
 
 # A faire sur Github :
-  ## Lister les informations pour les cases : 
+  ## Lister les informations pour les cases (sous fichier .csv): 
     - numero de la station
     - x_en_mm
     - y_en_mm
@@ -13,3 +13,12 @@
   - Définir classe correspondante aux stations
   - Importer les données de classes et les expoloiter pour lister les instances de chaque stations :  `station = []`
   - Réaliser le graphique correspondant à partir de la liste `station` qui continent lesinstances de la classe `station` : tkinter
+
+# Attribution des tâches
+Amine :  1 -> 15
+Thibault : 16 -> 30
+Thomas : 31 -> 45
+Laurent : 46 -> 60
+Yann K : 
+Thylio:
+Noa :
