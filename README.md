@@ -14,16 +14,16 @@
 
 # Attribution des tâches
   ## Listage des stations dans le `.csv` 
-Amine :  1 -> 15
-Thibault : 16 -> 30
-Thomas : 31 -> 45
-Laurent : 46 -> 60
-Yann K : 61 -> 75
-Thylio: 76 -> 90
-Noa : 91 -> 105
-Yann M : 106 -> 120
-Memeth : 121 -> 135
-Mathis : 136 -> 150
-Quentin : 151 -> 165
-Xavier : 166 -> 180
-Noah : 181 -> 195
+- Amine :  1 -> 15
+- Thibault : 16 -> 30
+- Thomas : 31 -> 45
+- Laurent : 46 -> 60
+- Yann K : 61 -> 75
+- Thylio: 76 -> 90
+- Noa : 91 -> 105
+- Yann M : 106 -> 120
+- Memeth : 121 -> 135
+- Mathis : 136 -> 150
+- Quentin : 151 -> 165
+- Xavier : 166 -> 180
+- Noah : 181 -> 195
