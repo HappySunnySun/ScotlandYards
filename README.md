@@ -1,11 +1,13 @@
 # A faire sur Github :
   ## Lister les informations pour les cases (sous fichier .csv): 
-    - numero de la station
+    - numero_de_la_station
     - x_en_mm
     - y_en_mm
     - accessible_en_taxi
     - accessible_en_bus
     - accessible_en_metro
+
+  Fichier disponible [ici](https://github.com/HappySunnySun/ScottlandYards/blob/main/stations.csv) (il peut être directement modifié dans Github et pensez a mettre votre nom dans le commit pour un suivi plus simple 😉)
 # A faire hors Github (seul ou par groupe de 2 ou 3) :
   ## Définir classe coresspondante :
   - Définir classe correspondante aux stations
